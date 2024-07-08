@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "791905874865",
+    "firebase_url": "https://tramthoitiet-7b02e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tramthoitiet-7b02e",
+    "storage_bucket": "tramthoitiet-7b02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791905874865:android:71c6b21e60f2b18eb6c390",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xlUEq9r-xnZ5zFaLeO20DKsIE7DaAfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
